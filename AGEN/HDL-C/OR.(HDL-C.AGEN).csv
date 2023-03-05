@@ -1,0 +1,5 @@
+,id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval,lo_ci,up_ci,or
+1,riNoo1,bbj-a-158,hepatocellular carcinoma || id:bbj-a-158,19830769,Inverse variance weighted (multiplicative random effects),16,0.042144798,0.075962836,0.579025916,-0.10674236,0.191031956,1.043045498
+2,riNoo1,bbj-a-158,hepatocellular carcinoma || id:bbj-a-158,19830769,MR Egger,16,0.076221895,0.176166765,0.671846026,-0.269064964,0.421508755,1.079202018
+3,riNoo1,bbj-a-158,hepatocellular carcinoma || id:bbj-a-158,19830769,Inverse variance weighted (fixed effects),16,0.042144798,0.083289784,0.612855242,-0.121103179,0.205392774,1.043045498
+4,riNoo1,bbj-a-158,hepatocellular carcinoma || id:bbj-a-158,19830769,Weighted median,16,0.046200284,0.115709637,0.689688559,-0.180590606,0.272991173,1.047284144

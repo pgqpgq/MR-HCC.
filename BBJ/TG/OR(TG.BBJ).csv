@@ -1,0 +1,5 @@
+,method,pval,OR
+1,Inverse variance weighted (multiplicative random effects),0.817117574,0.969514779
+2,MR Egger,0.507258517,0.870117027
+3,Inverse variance weighted (fixed effects),0.775779923,0.969514779
+4,Weighted median,0.821033737,1.039290525
